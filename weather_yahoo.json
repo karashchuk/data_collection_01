@@ -1,0 +1,116 @@
+{
+  "current_observation": {
+    "astronomy": {
+      "sunrise": "5:39 am",
+      "sunset": "7:25 pm"
+    },
+    "atmosphere": {
+      "humidity": 65,
+      "pressure": 1000.0,
+      "rising": 0,
+      "visibility": 16.1
+    },
+    "condition": {
+      "code": 27,
+      "temperature": 8,
+      "text": "Mostly Cloudy"
+    },
+    "pubDate": 1586368800,
+    "wind": {
+      "chill": 6,
+      "direction": 330,
+      "speed": 14.0
+    }
+  },
+  "forecasts": [
+    {
+      "code": 30,
+      "date": 1586293200,
+      "day": "Wed",
+      "high": 13,
+      "low": 4,
+      "text": "Partly Cloudy"
+    },
+    {
+      "code": 30,
+      "date": 1586379600,
+      "day": "Thu",
+      "high": 13,
+      "low": 0,
+      "text": "Partly Cloudy"
+    },
+    {
+      "code": 39,
+      "date": 1586466000,
+      "day": "Fri",
+      "high": 9,
+      "low": 2,
+      "text": "Scattered Showers"
+    },
+    {
+      "code": 30,
+      "date": 1586552400,
+      "day": "Sat",
+      "high": 3,
+      "low": -2,
+      "text": "Partly Cloudy"
+    },
+    {
+      "code": 30,
+      "date": 1586638800,
+      "day": "Sun",
+      "high": 6,
+      "low": -3,
+      "text": "Partly Cloudy"
+    },
+    {
+      "code": 28,
+      "date": 1586725200,
+      "day": "Mon",
+      "high": 11,
+      "low": 0,
+      "text": "Mostly Cloudy"
+    },
+    {
+      "code": 5,
+      "date": 1586811600,
+      "day": "Tue",
+      "high": 9,
+      "low": 3,
+      "text": "Rain And Snow"
+    },
+    {
+      "code": 23,
+      "date": 1586898000,
+      "day": "Wed",
+      "high": 7,
+      "low": 0,
+      "text": "Breezy"
+    },
+    {
+      "code": 30,
+      "date": 1586984400,
+      "day": "Thu",
+      "high": 8,
+      "low": 1,
+      "text": "Partly Cloudy"
+    },
+    {
+      "code": 30,
+      "date": 1587070800,
+      "day": "Fri",
+      "high": 11,
+      "low": 2,
+      "text": "Partly Cloudy"
+    }
+  ],
+  "location": {
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.741638,
+    "long": 37.605061,
+    "region": " Moscow Federal City",
+    "timezone_id": "Europe/Moscow",
+    "woeid": 2122265
+  }
+}
